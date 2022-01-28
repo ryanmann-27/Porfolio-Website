@@ -9,6 +9,7 @@ I will be using
 * CSS
 * Javascript
 * Node.js
+
 The Javascript frameworks that will be used are
 * React
 * Angular
