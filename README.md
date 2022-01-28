@@ -1,3 +1,14 @@
 # Porfolio Website
+***
+## Purpose
 This repo contains the code that is used for my porfolio website https://ryanmann.io/
-I will be using HTML, CSS, Javascript, and Node.js. The Javascript frameworks that I plan to use is React and Angular
+
+### What will be used in the repo
+I will be using 
+* HTML
+* CSS
+* Javascript
+* Node.js
+The Javascript frameworks that will be used are
+* React
+* Angular
